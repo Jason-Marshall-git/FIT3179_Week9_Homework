@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "University internartional students around the world",
+    "title": "University international students around the world",
     "width": 800,
     "height": 400,
     "projection": {"type": "equalEarth"},
