@@ -13,7 +13,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/Jason-Marshall-git/FIT3179_Week9_Homework/main/data/uni_international_student_sum_2022.csv"
+          "url": "https://raw.githubusercontent.com/Jason-Marshall-git/FIT3179_Week9_Homework/main/data/uni_country_sums_2022.csv"
         },
         "key": "country",
         "fields": ["international_students_sum"]
